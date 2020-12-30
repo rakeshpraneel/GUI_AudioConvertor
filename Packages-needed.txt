@@ -1,0 +1,10 @@
+Module:
+pyttsx3
+tkinter
+gtts
+playsound
+os
+PyPDF2
+-------------
+Package:
+PIL
